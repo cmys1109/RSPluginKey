@@ -3,7 +3,11 @@ D&amp;M RS开源项目-RSPluginKey，让每位开发者给自己的插件装上�
 ## 前端cpp（在写）
 
 ## 后端python flask（初代完工）
-
+### 运行环境配置
+ 推荐python3.6以上
+ 安装flask（pip install flask)
+ 安装requests（pip install requests)
+####以下指令请在在后端目录中运行指令！
 ### 初次部署指令：
  FLASK_APP=app.py
 ### 启动指令：
