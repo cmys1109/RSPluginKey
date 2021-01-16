@@ -16,5 +16,5 @@ D&amp;M RS开源项目-RSPluginKey，让每位开发者给自己的插件装上�
  flask run --host='0.0.0.0' --post=8000(8000指端口号，默认为5000端口，可以自行改）
 ### 管理key  运行admin_key.py
  新增key：makenewkey 【IP】 
- 更改key：changekey 【IP】 
+ 更改key：changekey 【IP】  
  自定义更改key：changekey 【IP】 【key】  
