@@ -9,7 +9,8 @@ D&amp;M RS开源项目-RSPluginKey，让每位开发者给自己的插件装上�
  安装requests（pip install requests)  
 #### 以下指令请在在后端目录中运行指令！
 ### 初次部署指令：
- FLASK_APP=app.py
+ set FLASK_APP=app.py（Windows系统）  
+ export FLASK_APP=app.py（Linux系统）
 ### 启动指令：
  flask run --host='0.0.0.0'  
  或者  
